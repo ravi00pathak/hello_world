@@ -1,0 +1,10 @@
+this is a simple python program that decorates the location given in the entry box
+
+How it works:
+1 > first it create 12 blank file related directory.
+2 > it fetches all the file on the given location.
+3 > it fetches extension of individual file and move to the appropiate directory.
+4 > it checks which directory is empty and which not.
+5 > it deletes all the empty directory on the given location.
+
+i hope you will like it.
